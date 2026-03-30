@@ -1,4 +1,4 @@
-# Prodapt Autonomous NOC Console
+# Prodapt Autonomous NOC Single Pane of Glass
 
 > **Interactive AI-driven Network Operations Center automation demo** — built for SageNet's NOC Outsourcing RFP (NOC-01-022026), demonstrating Prodapt's Autonomous NOC approach powered by Agent Hub, Nucleus, and ServiceNow Autonomous Workforce.
 
